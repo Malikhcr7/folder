@@ -1,0 +1,51 @@
+header{
+    color:maroon;
+    font-size:50px; 
+    text-align:center;
+    border-bottom:1px solid green;
+    padding:16px;
+}
+    
+  
+body{
+     background-color:orange;
+     margin-left:100px; 
+     width:800px;
+
+     
+}
+p{
+    color:maroon;
+    font-size:30px; 
+    text-align:center;
+}
+div-1{
+    border-bottom:1px solid green;
+    padding:16px;
+}
+
+nav-1{
+    text-align:left;
+    color:yellow;
+}
+h2{ color:black;
+     font-size:35px;
+     font-family:'Times New Roman', Times, serif;
+}
+
+Article{
+    border-style:dotted;
+    border-color:green;
+    border-width:30px;
+    padding:16px;
+     font-style:inherit;
+     color:green;
+}
+
+footer{
+    border-top:1px;
+    border-style:solid;
+    border-color:black;
+     color:orangered;
+     text-align:center;
+}
